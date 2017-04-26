@@ -1,5 +1,5 @@
 .body {
-background-image:url(https://www.imageupload.co.uk/images/2017/04/20/background.jpg);
+background-image:url("https://www.imageupload.co.uk/images/2017/04/20/background.jpg");
 background-size: 100% 100%;
 background-attachment:fixed;
 
