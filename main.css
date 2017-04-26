@@ -1,9 +1,10 @@
-.body {
-background-image:url(https://www.imageupload.co.uk/images/2017/04/20/background.jpg);
-background-size: 100% 100%;
-background-attachment:fixed;
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
 
-
+   min-width: 100%;
+  min-height: 100%;
 }
 
 
